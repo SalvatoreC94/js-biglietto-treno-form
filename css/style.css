@@ -1,0 +1,28 @@
+/* 
+Reset
+ */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    width: 50px;
+}
+
+body {
+    background-image: url(https://images.unsplash.com/photo-1615864691387-6e986695017a?q=80&w=1856&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background-size: cover;
+    background-position: center;
+    opacity: .9;
+}
+
+.form-control-opacity {
+    opacity: .2;
+}
